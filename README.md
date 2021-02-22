@@ -12,3 +12,4 @@ Com os seguintes Objetivos;
 
 1 - Facilitar testes para o NetBeans.
 2 - Criação automática de Branch's e registro de HIstórico de alterações
+3 - regex aplicado ao Shell
