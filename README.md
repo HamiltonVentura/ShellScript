@@ -8,7 +8,7 @@ Os Scripts desse projeto podem ser usados livremente, Utilize versões do UBUNTU
 Apesar de a IDE Netbeans ja possuir ferramentas de atumatização, ainda assim desenvolvi Scripts pois o NetBeans possui alguns 
 Bugs que prejudicam  o desempenho do programador dentro da empresa.
 
-# Com os seguintes Objetivos;
+# Com os seguintes Objetivos
 
 1 - Facilitar testes para o NetBeans.
 2 - Criação automática de Branch's e registro de HIstórico de alterações
